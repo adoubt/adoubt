@@ -9,7 +9,7 @@ Born to gamedev, forced to casinodev.\
       \
 ◤————————◥\
   [me on web3.career](https://web3.career/@username)\
-  [my music project](https://www.youtube.com/@ashtrayRelationship)\
+  [my music project](https://www.youtube.com/@ashtrayRelationship)
   
 ◣————————◢
     </td>

@@ -8,7 +8,7 @@ Born to gamedev, forced to casinodev.\
       ![](https://komarev.com/ghpvc/?username=adoubt&color=blueviolet)\
       \
 ◤————————◥\
-  [me on web3.career](https://web3.career/@username)\
+  [me on web3.career](https://web3.career/@brokeway)\
   [my music project](https://www.youtube.com/@ashtrayRelationship)
   
 ◣————————◢

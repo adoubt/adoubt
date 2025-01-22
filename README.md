@@ -8,8 +8,10 @@ Born to gamedev, forced to casinodev.\
       ![](https://komarev.com/ghpvc/?username=adoubt&color=blueviolet)\
       \
 ◤————————◥\
-  [![@brokeway](https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/telegram.svg)](https://t.me/brokeway)
-\
+
+  
+\ <img src="src\t_logo_2x.png" alt="Telegram" width="16"/> Ваш текст рядом
+  [@brokeway](https://t.me/brokeway)\
   [my music project](https://www.youtube.com/@ashtrayRelationship)
   
 ◣————————◢

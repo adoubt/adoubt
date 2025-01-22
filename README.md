@@ -1,22 +1,29 @@
 
 <table>
   <tr>
-    <td width=50%>
-      
-Born to gamedev, forced to casinodev.
-      
-      ![](https://komarev.com/ghpvc/?username=adoubt&color=blueviolet)
-      
-      
-<img src="src\t_logo_2x.png" alt="Telegram" color = "blue" width="16"/>[@brokeway](https://t.me/brokeway)</img>\
-<img src="src\png-youtube.png" alt="YouTube" color = "red" width="16"/>[@AshtrayRelationship](https://www.youtube.com/@ashtrayRelationship)\ 
-  /
+    <td width="50%">
+      <h3>Born to gamedev, forced to casinodev.</h3>
+      <p>
+        <img src="https://komarev.com/ghpvc/?username=adoubt&color=blueviolet" alt="Profile Views"/>
+      </p>
+      <p>
+        <a href="https://t.me/brokeway">
+          <img src="src/t_logo_2x.png" alt="Telegram" width="16"/>
+          Telegram: @brokeway
+        </a>
+      </p>
+      <p>
+        <a href="https://www.youtube.com/@ashtrayRelationship">
+          <img src="src/png-youtube.png" alt="YouTube" width="16"/>
+          YouTube: @AshtrayRelationship
+        </a>
+      </p>
     </td>
-    <td width=50%>
-      <a href="https://github-readme-stats.vercel.app/">
-![adoubt's GitHub stats](https://github-readme-stats.vercel.app/api?username=adoubt&count_private=true&show_icons=true&theme=midnight-purple)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adoubt&layout=compact&theme=midnight-purple)
-      </a>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=adoubt&count_private=true&show_icons=true&theme=midnight-purple" alt="GitHub Stats"/>
+      <br/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adoubt&layout=compact&theme=midnight-purple" alt="Top Languages"/>
     </td>
   </tr>
 </table>
+

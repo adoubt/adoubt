@@ -3,15 +3,14 @@
   <tr>
     <td width=50%>
       
-Born to gamedev, forced to casinodev.\
-      \
-      ![](https://komarev.com/ghpvc/?username=adoubt&color=blueviolet)\
-      \
+Born to gamedev, forced to casinodev.
       
-<img src="src\t_logo_2x.png" alt="Telegram" color = "blue" width="16"/> [@brokeway](https://t.me/brokeway)\
-<img src="src\png-youtube.png" alt="Yt" color = "red" width="16"/> [@AshtrayRelationship](https://www.youtube.com/@ashtrayRelationship) 
-  
-
+      ![](https://komarev.com/ghpvc/?username=adoubt&color=blueviolet)
+      
+      
+<img src="src\t_logo_2x.png" alt="Telegram" color = "blue" width="16"/>[@brokeway](https://t.me/brokeway)</img>\
+<img src="src\png-youtube.png" alt="YouTube" color = "red" width="16"/>[@AshtrayRelationship](https://www.youtube.com/@ashtrayRelationship)\ 
+  /
     </td>
     <td width=50%>
       <a href="https://github-readme-stats.vercel.app/">

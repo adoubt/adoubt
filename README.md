@@ -7,9 +7,9 @@
         <img src="https://komarev.com/ghpvc/?username=adoubt&color=blueviolet" alt="Profile Views"/>
       </p>
       <p>
-        <a href="https://t.me/brokeway">
+        <a href="https://t.me/vietnolog">
           <img src="src/t_logo_2x.png" alt="Telegram" width="16"/>
-          @brokeway
+          @vietnolog
         </a>
       </p>
       <p>

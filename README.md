@@ -12,12 +12,6 @@
           @vietnolog
         </a>
       </p>
-      <p>
-        <a href="https://www.youtube.com/@ashtrayRelationship">
-          <img src="src/png-youtube.png" alt="YouTube" width="16"/>
-          @AshtrayRelationship
-        </a>
-      </p>
     </td>
     <td width="60%">
       <img src="https://github-readme-stats.vercel.app/api?username=adoubt&count_private=true&show_icons=true&theme=midnight-purple" alt="GitHub Stats"/>
